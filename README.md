@@ -113,3 +113,22 @@
   <img src="https://raw.githubusercontent.com/Deepalirole/Deepalirole/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake dark mode" />
   <img src="https://raw.githubusercontent.com/Deepalirole/Deepalirole/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake light mode" />
 </p>
+
+---
+
+## 🎓 Certifications
+| Certificate | Issuer |
+|---|---|
+| GenAI Powered Data Analytics | TCS |
+| Data Analytics with Python | NPTEL |
+| Machine Learning | IBM |
+| Advanced Power BI (DAX) | LinkedIn Learning |
+| Git and GitHub | Coursera |
+
+---
+
+<p align="center">
+  <i>"Transforming data into actionable insights and deploying scalable AI solutions."</i>
+  <br/><br/>
+  <b>⭐ Star my repos if you find them useful!</b>
+</p>
