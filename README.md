@@ -75,3 +75,21 @@
 
 **Skill Icons**
 [![Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,mysql,mongodb,git,github,js,vscode)](https://skillicons.dev)
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepalirole&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepalirole&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Deepalirole&theme=radical&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepalirole&theme=react-dark&hide_border=true&area=true" width="95%" />
+</p>
