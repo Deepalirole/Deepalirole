@@ -14,3 +14,14 @@
 - 👯 Open to collaborate on: Generative AI & Computer Vision
 - 💬 Ask me about: Machine Learning, Power BI, OpenAI API
 - 🌐 Portfolio: https://deepali-role.vercel.app/
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepalirole&theme=radical&no-frame=true&no-bg=true&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepalirole&label=Profile+Views&color=a855f7&style=flat" />
+  <img src="https://custom-icon-badges.demolab.com/github/followers/Deepalirole?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Followers&logoColor=white" />
+</p>
