@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Deepali Role 👋</h1>
+<h1 align="center">Hi there, I'm Deepali Role </h1>
 
 <p align="center">
   <a href="https://deepali-role.vercel.app/">
