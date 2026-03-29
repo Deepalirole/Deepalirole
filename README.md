@@ -103,3 +103,13 @@
 4. ⬆️ Pushed undefined commit(s) to [Deepalirole/Deepalirole](https://github.com/Deepalirole/Deepalirole)
 5. ⬆️ Pushed undefined commit(s) to [Deepalirole/Deepalirole](https://github.com/Deepalirole/Deepalirole)
 <!--RECENT_ACTIVITY:end-->
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepalirole/Deepalirole/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake dark mode" />
+  <img src="https://raw.githubusercontent.com/Deepalirole/Deepalirole/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake light mode" />
+</p>
