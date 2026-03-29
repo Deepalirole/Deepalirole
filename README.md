@@ -93,3 +93,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepalirole&theme=react-dark&hide_border=true&area=true" width="95%" />
 </p>
+
+## ⚡ Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
