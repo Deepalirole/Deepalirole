@@ -97,10 +97,11 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Deepalirole/Data-Analytics-Internship-Project-Syscorp-Technology-Pvt-Ltd](https://github.com/Deepalirole/Data-Analytics-Internship-Project-Syscorp-Technology-Pvt-Ltd)
-2. ⬆️ Pushed undefined commit(s) to [Deepalirole/Data-Analytics-Internship-Project-Syscorp-Technology-Pvt-Ltd](https://github.com/Deepalirole/Data-Analytics-Internship-Project-Syscorp-Technology-Pvt-Ltd)
-3. ⬆️ Pushed undefined commit(s) to [Deepalirole/Data-Analytics-Internship-Project-Syscorp-Technology-Pvt-Ltd](https://github.com/Deepalirole/Data-Analytics-Internship-Project-Syscorp-Technology-Pvt-Ltd)
-4. ⬆️ Pushed undefined commit(s) to [Deepalirole/Data-Analytics-Internship-Project-Syscorp-Technology-Pvt-Ltd](https://github.com/Deepalirole/Data-Analytics-Internship-Project-Syscorp-Technology-Pvt-Ltd)
+1. ⬆️ Pushed undefined commit(s) to [Deepalirole/employee-attrition-analysis](https://github.com/Deepalirole/employee-attrition-analysis)
+2. ⬆️ Pushed undefined commit(s) to [Deepalirole/employee-attrition-analysis](https://github.com/Deepalirole/employee-attrition-analysis)
+3. ⬆️ Pushed undefined commit(s) to [Deepalirole/employee-attrition-analysis](https://github.com/Deepalirole/employee-attrition-analysis)
+4. ⬆️ Pushed undefined commit(s) to [Deepalirole/employee-attrition-analysis](https://github.com/Deepalirole/employee-attrition-analysis)
+5. ⬆️ Pushed undefined commit(s) to [Deepalirole/Data-Analytics-Internship-Project-Syscorp-Technology-Pvt-Ltd](https://github.com/Deepalirole/Data-Analytics-Internship-Project-Syscorp-Technology-Pvt-Ltd)
 <!--RECENT_ACTIVITY:end-->
 
 
