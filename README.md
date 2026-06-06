@@ -97,7 +97,6 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Deepalirole/Brauser_use_Agent](https://github.com/Deepalirole/Brauser_use_Agent)
 <!--RECENT_ACTIVITY:end-->
 
 
