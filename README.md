@@ -97,10 +97,11 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Deepalirole/notetaker](https://github.com/Deepalirole/notetaker) from [supratikpm/notetaker](https://github.com/supratikpm/notetaker)
-2. 🤝 Became collaborator on [supratikpm/notetaker](https://github.com/supratikpm/notetaker)
-3. ⬆️ Pushed undefined commit(s) to [Deepalirole/sensitive-data-detection](https://github.com/Deepalirole/sensitive-data-detection)
+1. ⬆️ Pushed undefined commit(s) to [Deepalirole/notetaker](https://github.com/Deepalirole/notetaker)
+2. 🔱 Forked [Deepalirole/notetaker](https://github.com/Deepalirole/notetaker) from [supratikpm/notetaker](https://github.com/supratikpm/notetaker)
+3. 🤝 Became collaborator on [supratikpm/notetaker](https://github.com/supratikpm/notetaker)
 4. ⬆️ Pushed undefined commit(s) to [Deepalirole/sensitive-data-detection](https://github.com/Deepalirole/sensitive-data-detection)
+5. ⬆️ Pushed undefined commit(s) to [Deepalirole/sensitive-data-detection](https://github.com/Deepalirole/sensitive-data-detection)
 <!--RECENT_ACTIVITY:end-->
 
 
