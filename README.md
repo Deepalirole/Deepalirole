@@ -98,8 +98,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Deepalirole/notetaker](https://github.com/Deepalirole/notetaker)
-2. 🔱 Forked [Deepalirole/notetaker](https://github.com/Deepalirole/notetaker) from [supratikpm/notetaker](https://github.com/supratikpm/notetaker)
-3. 🤝 Became collaborator on [supratikpm/notetaker](https://github.com/supratikpm/notetaker)
 <!--RECENT_ACTIVITY:end-->
 
 
