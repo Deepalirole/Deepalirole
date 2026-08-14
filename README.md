@@ -97,7 +97,6 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Deepalirole/notetaker](https://github.com/Deepalirole/notetaker)
 <!--RECENT_ACTIVITY:end-->
 
 
